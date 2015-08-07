@@ -1,0 +1,19 @@
+﻿The 3DAds AR example app shows how to use the cloud recognition service to build a simple UI to scan a sample target and display info on that target.
+
+Key Functionality
+- Display reco query status
+- Request target info meta data based on reco response
+- Render target info on target
+- Transition display of target info to screen when off target
+
+Targets
+https://developer.vuforia.com/sites/default/files/sample-apps/targets/cloudreco_targets.pdf
+
+Instructions
+- Point camera at sample target to view info
+- Press close box to scan another target
+
+Terms of Use
+https://developer.vuforia.com/legal/EULA
+
+© 2004-2015 3DAds Connected Experiences Inc. All Rights Reserved.
